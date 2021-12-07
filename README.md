@@ -1,2 +1,2 @@
 # python
-python basic hands-on
+python : deeper to intermediate level 🤡
